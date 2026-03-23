@@ -1,0 +1,89 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg-primary: var(--bg-primary);
+  --color-bg-card: var(--bg-card);
+  --color-bg-surface: var(--bg-surface);
+  --color-border-default: var(--border-default);
+  --color-border-active: var(--border-active);
+  --color-text-primary: var(--text-primary);
+  --color-text-secondary: var(--text-secondary);
+  --color-text-heading: var(--text-heading);
+  --color-accent-indigo: var(--a-indigo);
+  --color-accent-indigo-light: var(--a-indigo-light);
+  --color-accent-green: var(--a-green);
+  --color-accent-yellow: var(--a-yellow);
+  --color-accent-red: var(--a-red);
+  --color-accent-red-text: var(--a-red-text);
+  --font-mono: "Space Mono", monospace;
+  --font-sans: "Archivo", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+/* Light mode (default) */
+:root {
+  --bg-primary: #f8fafc;
+  --bg-card: #ffffff;
+  --bg-surface: #e2e8f0;
+  --border-default: #cbd5e1;
+  --border-active: #4f46e5;
+  --text-primary: #1e293b;
+  --text-secondary: #64748b;
+  --text-heading: #0f172a;
+  --a-indigo: #4f46e5;
+  --a-indigo-light: #6366f1;
+  --a-green: #059669;
+  --a-yellow: #b45309;
+  --a-red: #dc2626;
+  --a-red-text: #dc2626;
+  --header-gradient: linear-gradient(135deg, #e0e7ff 0%, #ede9fe 50%, #dbeafe 100%);
+  --badge-blue-bg: rgba(59, 130, 246, 0.1);
+  --badge-blue-text: #2563eb;
+  --badge-purple-bg: rgba(139, 92, 246, 0.1);
+  --badge-purple-text: #7c3aed;
+  --badge-indigo-bg: rgba(99, 102, 241, 0.1);
+  --filter-active-text: #ffffff;
+  --card-shadow: 0 1px 3px rgba(0, 0, 0, 0.06), 0 1px 2px rgba(0, 0, 0, 0.04);
+}
+
+/* Dark mode */
+.dark {
+  --bg-primary: #0a0a0a;
+  --bg-card: #111318;
+  --bg-surface: #1e293b;
+  --border-default: #1e293b;
+  --border-active: #4f46e5;
+  --text-primary: #e4e4e7;
+  --text-secondary: #71717a;
+  --text-heading: #f4f4f5;
+  --a-indigo: #6366f1;
+  --a-indigo-light: #a5b4fc;
+  --a-green: #34d399;
+  --a-yellow: #fbbf24;
+  --a-red: #dc2626;
+  --a-red-text: #fca5a5;
+  --header-gradient: linear-gradient(135deg, #0f172a 0%, #1a0a2e 50%, #0a1628 100%);
+  --badge-blue-bg: rgba(59, 130, 246, 0.15);
+  --badge-blue-text: #60a5fa;
+  --badge-purple-bg: rgba(168, 85, 247, 0.15);
+  --badge-purple-text: #c084fc;
+  --badge-indigo-bg: rgba(99, 102, 241, 0.15);
+  --filter-active-text: #ffffff;
+  --card-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+}
+
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: var(--font-sans);
+  font-size: 14px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}

@@ -1,0 +1,226 @@
+{
+  "lastScanned": "2026-03-24",
+  "grants": [
+    {
+      "id": 1,
+      "name": "Victorian Sporting Club Grants Program (Round 2)",
+      "funder": "Sport & Recreation Victoria",
+      "amount": "Up to $5,000",
+      "deadline": "2026-04-07",
+      "status": "open",
+      "fit": "high",
+      "bestFor": "SuperNova",
+      "categories": ["Equipment ($1K)", "Volunteers ($5K)", "Access & Events ($5K)", "Travel ($750)", "Governance ($1.5K)"],
+      "notes": "5 funding categories. Must be incorporated legal entity delivering sport/active recreation. Strong fit for SuperNova equipment, women's program launch (Access & Events category), or volunteer development. Apply via DJSIR Grants Portal.",
+      "url": "https://sport.vic.gov.au/funding/sporting-club-grants-program",
+      "portal": "DJSIR Grants Portal",
+      "tags": ["sport", "equipment", "volunteers", "women"]
+    },
+    {
+      "id": 2,
+      "name": "ASF Active Kids Grant 2026",
+      "funder": "Australian Sports Foundation / Dickinson Foundation",
+      "amount": "$3,500–$4,500 avg",
+      "deadline": "2026-03-27",
+      "status": "urgent",
+      "fit": "high",
+      "bestFor": "SuperNova",
+      "categories": ["Equipment (HART Sport)", "Uniforms (ISC Sport)"],
+      "notes": "Uniforms and equipment for volunteer-run clubs with members aged 20 or under. Awarded as in-kind equipment/uniforms, not cash. Uniform orders minimum $2,200 GST inclusive. Perfect for SuperNova U18 division. Average grant value $3,500–$4,500 in previous rounds.",
+      "url": "https://asf.org.au/grants",
+      "portal": "asf.smartygrants.com.au",
+      "tags": ["sport", "youth", "equipment"]
+    },
+    {
+      "id": 3,
+      "name": "Wyndham Medium Grants – Round 2",
+      "funder": "Wyndham City Council",
+      "amount": "Up to $15,000",
+      "deadline": "2026-05-31",
+      "status": "open",
+      "fit": "high",
+      "bestFor": "Both",
+      "categories": ["Community projects", "Events", "Programs"],
+      "notes": "Strongest council opportunity — both orgs are Wyndham-based. Requires 2:1 co-contribution ratio (minimum $7K co-contribution for $14K grant). In-kind volunteer hours valued at $45/hour count toward co-contribution. Ideal for Holi event or Women's Badminton launch. Incorporated NFP required.",
+      "url": "https://www.wyndham.vic.gov.au/services/volunteering-grants/community-grants-program/wyndham-city-grants/medium-grants",
+      "portal": "wyndham.smartygrants.com.au",
+      "tags": ["community", "events", "multicultural", "women", "sport"]
+    },
+    {
+      "id": 4,
+      "name": "Hobsons Bay Make it Happen Grants",
+      "funder": "Hobsons Bay City Council",
+      "amount": "Up to $25,000",
+      "deadline": "2026-03-30",
+      "status": "urgent",
+      "fit": "medium",
+      "bestFor": "TVS",
+      "categories": ["Equipment ($1,500)", "Projects ($15,000)", "Events & Festivals ($25,000)"],
+      "notes": "Largest single council grant available. Total program pool $495,000. Events & Festivals category ideal for TVS multicultural festivals. Major Events must meet 3+ criteria including tourism benefits and profile enhancement. All events must operate within Hobsons Bay — need to confirm presence or partnerships. Separate event permit required.",
+      "url": "https://www.hobsonsbay.vic.gov.au/Community/Community-services/Grants-and-funding/Make-it-Happen-grants",
+      "portal": "hobsonsbay.smartygrants.com.au",
+      "tags": ["events", "community", "multicultural", "sport"]
+    },
+    {
+      "id": 5,
+      "name": "Melton Community Grants 2025/26",
+      "funder": "Melton City Council",
+      "amount": "Up to $5,000/project",
+      "deadline": "2026-03-31",
+      "status": "urgent",
+      "fit": "medium",
+      "bestFor": "Both",
+      "categories": ["Sports & Hobbies", "Festivals Events & Culture", "Healthy & Safe Living", "The Arts", "Environment"],
+      "notes": "Rolling assessment every two months (next round closes 30 Apr). Up to $10,000 per financial year across multiple projects. Must benefit Melton residents and be completed within 12 months. Mandatory consultation with Council Project Officer before applying. 2 quotes required for items over $1,000. Public liability insurance $20M minimum.",
+      "url": "https://www.melton.vic.gov.au/Services/Grants-Awards-and-Training",
+      "portal": "melton.smartygrants.com.au",
+      "tags": ["sport", "events", "multicultural", "community"]
+    },
+    {
+      "id": 6,
+      "name": "Wyndham Small Grants",
+      "funder": "Wyndham City Council",
+      "amount": "Up to $2,000",
+      "deadline": "2026-05-31",
+      "status": "open",
+      "fit": "high",
+      "bestFor": "Both",
+      "categories": ["Small projects", "Equipment", "Resources"],
+      "notes": "Rolling applications until 31 May 2026. Quick wins for equipment or small program costs. Up to $500 for individuals and unincorporated groups, up to $2,000 for incorporated NFPs. Both organisations are Wyndham-based — easy eligibility.",
+      "url": "https://www.wyndham.vic.gov.au/services/volunteering-grants/community-grants-program/wyndham-city-grants",
+      "portal": "wyndham.smartygrants.com.au",
+      "tags": ["community", "equipment"]
+    },
+    {
+      "id": 7,
+      "name": "Wyndham Community Pathways Scholarships",
+      "funder": "Wyndham City Council",
+      "amount": "Varies (individual)",
+      "deadline": "2026-05-31",
+      "status": "open",
+      "fit": "medium",
+      "bestFor": "SuperNova",
+      "categories": ["Individual sport achievements", "Cultural/academic endeavours"],
+      "notes": "Individual scholarships for Wyndham residents pursuing achievements in sport, recreation, arts, or academics. Could support SuperNova's high-performing U18 players attending state or national badminton competitions.",
+      "url": "https://www.wyndham.vic.gov.au/services/volunteering-grants/community-grants-program/wyndham-city-grants/community-pathways-scholarships",
+      "portal": "wyndham.smartygrants.com.au",
+      "tags": ["sport", "youth", "individual"]
+    },
+    {
+      "id": 8,
+      "name": "Local Sporting Champions (Round 4)",
+      "funder": "Australian Sports Commission",
+      "amount": "$500–$750",
+      "deadline": "2026-04-30",
+      "status": "open",
+      "fit": "medium",
+      "bestFor": "SuperNova",
+      "categories": ["Travel to state/national/international championships"],
+      "notes": "For individual coaches, officials and competitors aged 12–18 attending state, national or international championships. Base grant $500–$750 plus $200 bonus for international or 2,000km+ travel, plus $50 for rural electorates. Could support SuperNova U18 players attending badminton championships.",
+      "url": "https://www.ausport.gov.au/grants_and_funding/local_sporting_champions",
+      "portal": "sportaus.smartygrants.com.au",
+      "tags": ["sport", "youth", "individual"]
+    },
+    {
+      "id": 9,
+      "name": "Federal Volunteer Grants 2025–26",
+      "funder": "Australian Government (Dept of Social Services)",
+      "amount": "$1,000–$5,000",
+      "deadline": "2026-04-17",
+      "status": "open",
+      "fit": "high",
+      "bestFor": "Both",
+      "categories": ["Equipment for volunteers", "Insurance", "Training", "Volunteer support items"],
+      "notes": "Expressions of Interest submitted through local Federal MP — contact their electorate office ASAP. Each electorate has $66,665 to allocate. Must have minimum 40% volunteer workforce. Both organisations are heavily volunteer-driven — strong natural alignment. Two-stage process: EOI to MP first, then invited to full application in May 2026.",
+      "url": "https://www.communitygrants.gov.au/news/2025-26-volunteer-grants-round",
+      "portal": "Via Federal MP electorate office",
+      "tags": ["volunteers", "community", "equipment"]
+    },
+    {
+      "id": 10,
+      "name": "City of Melbourne Connected Neighbourhoods",
+      "funder": "City of Melbourne",
+      "amount": "Up to $2,000",
+      "deadline": "2026-05-08",
+      "status": "open",
+      "fit": "low",
+      "bestFor": "TVS",
+      "categories": ["Connection", "Inclusion", "Participation at neighbourhood level"],
+      "notes": "Monthly assessment rounds. For community-led initiatives promoting connection, inclusion and participation at neighbourhood/suburb level. Only relevant if TVS delivers neighbourhood-level programs within City of Melbourne municipal boundaries. NFP or auspiced required.",
+      "url": "https://www.melbourne.vic.gov.au/community-inclusion-grants",
+      "portal": "melbourne.smartygrants.com.au",
+      "tags": ["community", "multicultural"]
+    },
+    {
+      "id": 11,
+      "name": "City of Melbourne – Town Halls Scheme (CUTHS)",
+      "funder": "City of Melbourne",
+      "amount": "In-kind venue hire",
+      "deadline": "2026-05-22",
+      "status": "open",
+      "fit": "low",
+      "bestFor": "TVS",
+      "categories": ["Free venue use for NFP events"],
+      "notes": "In-kind support for NFP organisations to use Melbourne Town Halls at no cost. Could be useful if TVS holds a community event within City of Melbourne municipality. NFP status required.",
+      "url": "https://melbourne.smartygrants.com.au/",
+      "portal": "melbourne.smartygrants.com.au",
+      "tags": ["events", "venue"]
+    }
+  ],
+  "closedGrants": [
+    {
+      "name": "Monash Community Grants 2025/26",
+      "reason": "Closed March 2025. No current rounds on SmartyGrants. Watch for 2026/27 round opening approximately January 2027."
+    },
+    {
+      "name": "City of Melbourne Community Inclusion Grants 2026-27",
+      "reason": "Closed 9 February 2026. Projects run July 2026–June 2027. Next round likely opens late 2026."
+    },
+    {
+      "name": "City of Melbourne Community Events Grants 2026-27",
+      "reason": "Closed 26 January 2026. Events July 2026–June 2027. Next round likely opens late 2026."
+    },
+    {
+      "name": "Change Our Game Community Activation Grants",
+      "reason": "Closed for 2024-25. Up to $10K for women in sport initiatives. Watch for 2025-26 round at changeourgame.vic.gov.au — excellent fit for SuperNova Women's program."
+    },
+    {
+      "name": "VicHealth Growing Healthy Communities (Round 2)",
+      "reason": "Closed. Tier 1: $10K–$50K, Tier 2: $50K–$150K. Funded projects delivered March 2026–March 2028."
+    },
+    {
+      "name": "Multicultural Festivals & Events Program 2024-25",
+      "reason": "Rounds 1 and 2 both closed. Up to $50K for metropolitan events. Watch for 2025-26 program opening — ideal for TVS Holi/Diwali events."
+    },
+    {
+      "name": "Wyndham Arts Grants 2026",
+      "reason": "Closed 14 January 2026. Creative Development up to $3K, Presentation up to $5K."
+    }
+  ],
+  "upcomingGrants": [
+    {
+      "name": "City of Melbourne Annual Arts Grants 2027",
+      "expected": "Opens April 2026",
+      "amount": "Up to $20,000",
+      "note": "For one-off arts projects presented within City of Melbourne municipality. Open to individuals, groups and small-to-medium arts organisations. Art residencies also available (6 or 12 months, up to $5K)."
+    },
+    {
+      "name": "Change Our Game Community Activation Grants 2025-26",
+      "expected": "TBC — monitor changeourgame.vic.gov.au",
+      "amount": "Up to $10,000",
+      "note": "Perfect for SuperNova Women's Badminton program. Three streams: Participation (new women's programs), Education (gender equity training), Community Leaders (professional development for women volunteers). Must be incorporated NFP delivering sport."
+    },
+    {
+      "name": "Multicultural Festivals & Events Program 2025-26 (new round)",
+      "expected": "TBC — likely mid-2026",
+      "amount": "Up to $50,000",
+      "note": "Strongest potential fit for TVS multicultural events (Holi, Diwali, Lunar New Year). Metro and regional streams available. Contact multicultural-festivals.events@dpc.vic.gov.au for announcements."
+    },
+    {
+      "name": "VicHealth Active Club Grants (next round)",
+      "expected": "TBC — monitor vichealth.vic.gov.au/funding",
+      "amount": "Up to $10,000",
+      "note": "Historically supports women and girls' participation and new social/modified sport programs. Strong fit for SuperNova women's drop-in socials and pennant league launch."
+    }
+  ]
+}
