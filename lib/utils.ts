@@ -62,6 +62,52 @@ export type GrantData = {
   grants: Grant[];
   closedGrants: ClosedGrant[];
   upcomingGrants: UpcomingGrant[];
+  fiftharkGrants: FifthArkGrantSection;
+};
+
+export type FifthArkGrant = {
+  id: string;
+  name: string;
+  tier: 1 | 2 | 3;
+  priority: string;
+  level: "Federal" | "State" | "Council";
+  administered_by: string;
+  portal: string;
+  status: string;
+  deadline: string;
+  amount_display: string;
+  action: string;
+  fit_score: "Excellent" | "Good" | "Possible" | "Future" | "Watch";
+  fit_notes: string;
+  relevant_activities: string[];
+  warnings: string[];
+};
+
+export type FifthArkStrategy = {
+  rank: number;
+  grant_id: string;
+  action: string;
+  timeline: string;
+  why: string;
+};
+
+export type FifthArkResource = {
+  name: string;
+  url: string;
+};
+
+export type FifthArkGrantSection = {
+  meta: {
+    entity: string;
+    abn: string;
+    trading_as: string;
+    profile: string;
+    last_updated: string;
+    disclaimer: string;
+  };
+  grants: FifthArkGrant[];
+  strategy: FifthArkStrategy[];
+  resources: FifthArkResource[];
 };
 
 export type FilterType = "all" | "closing" | "strong" | "tvs" | "supernova";

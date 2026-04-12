@@ -316,5 +316,207 @@
       "amount": "Up to $5,000",
       "note": "All 5 categories available again for SuperNova."
     }
-  ]
+  ],
+  "fiftharkGrants": {
+    "meta": {
+      "entity": "ASR Solutions Pty Ltd",
+      "abn": "78 600 839 987",
+      "trading_as": "FifthArk",
+      "profile": "Early-stage AI software company, under $20M turnover, incorporated company",
+      "last_updated": "2026-04-12",
+      "disclaimer": "Programs open and close regularly. Verify all details directly with the relevant agency before applying."
+    },
+    "grants": [
+      {
+        "id": "rdti",
+        "name": "R&D Tax Incentive (RDTI)",
+        "tier": 1,
+        "priority": "Act Now",
+        "level": "Federal",
+        "administered_by": "AusIndustry + ATO",
+        "portal": "https://business.gov.au/grants-and-programs/research-and-development-tax-incentive",
+        "status": "Always Open",
+        "deadline": "Register by 30 April 2027 for FY26",
+        "amount_display": "43.5% refundable tax offset (~$21,750 back on $50K spend)",
+        "action": "Engage R&D Tax Incentive specialist accountant immediately. Start logging all eligible DealDesk AI development activities from today.",
+        "fit_score": "Excellent",
+        "fit_notes": "ASR Solutions Pty Ltd is an incorporated company. DealDesk AI involved genuine technical uncertainty in classifier, draft generator, OAuth, and prompt engineering systems.",
+        "relevant_activities": [
+          "Developing novel AI classification prompts where outcome was technically uncertain",
+          "Building and testing the Make.com + OpenAI pipeline where behaviour was unknown in advance",
+          "Engineering industry-specific guardrail system (no equivalent product existed)",
+          "OAuth black box and Upstash AES-256-GCM token management (new technical approach)",
+          "Experimental prompt engineering where multiple approaches were tested and failed"
+        ],
+        "warnings": [
+          "Records must be kept during the year — not reconstructed retrospectively",
+          "ATO has tightened audits — document the uncertainty, not just the outcome",
+          "Grants received for R&D work reduce claimable RDTI expenditure dollar-for-dollar",
+          "Missing registration deadline means no claim for that year — no extensions"
+        ]
+      },
+      {
+        "id": "igp-stage1",
+        "name": "Industry Growth Program — Stage 1",
+        "tier": 1,
+        "priority": "Apply Next 30 Days",
+        "level": "Federal",
+        "administered_by": "Dept of Industry, Science and Resources",
+        "portal": "https://business.gov.au/grants-and-programs/industry-growth-program",
+        "status": "Open",
+        "deadline": "Rolling — check portal for current round",
+        "amount_display": "Up to $25,000 in funded advisory support",
+        "action": "Visit business.gov.au, search Industry Growth Program, check Stage 1 eligibility for early-stage digital economy businesses.",
+        "fit_score": "Good",
+        "fit_notes": "DealDesk AI is in the Digital Economy priority sector. Stage 1 advisory funding is the entry point before Stage 2 commercialisation grants.",
+        "relevant_activities": [
+          "Stage 1 can fund a commercialisation advisor, grant writer, or growth strategist",
+          "Reducing the cost of scaling DealDesk AI to market"
+        ],
+        "warnings": []
+      },
+      {
+        "id": "asbas",
+        "name": "ASBAS Digital Solutions — Round 3",
+        "tier": 2,
+        "priority": "Apply When Ready",
+        "level": "Federal",
+        "administered_by": "Dept of Industry, Science and Resources",
+        "portal": "https://business.gov.au/grants-and-programs/australian-small-business-advisory-service-digital-solutions",
+        "status": "Open",
+        "deadline": "Check portal",
+        "amount_display": "Subsidised advisory for digital adoption",
+        "action": "Check business.gov.au for ASBAS Digital Solutions Round 3. Use as a client onboarding support tool for mortgage brokers adopting DealDesk AI.",
+        "fit_score": "Good",
+        "fit_notes": "More relevant as a client enablement tool than direct FifthArk funding. Brokers and agents can access subsidised advisory to adopt DealDesk AI.",
+        "relevant_activities": [
+          "FifthArk clients (mortgage brokers, agents) accessing subsidised advisory",
+          "Useful as a client acquisition pathway and sales talking point"
+        ],
+        "warnings": []
+      },
+      {
+        "id": "launchvic",
+        "name": "LaunchVic — Victorian AI and DeepTech Programs",
+        "tier": 2,
+        "priority": "Register Now, Watch for Rounds",
+        "level": "State",
+        "administered_by": "LaunchVic",
+        "portal": "https://launchvic.org",
+        "status": "Monitor",
+        "deadline": "Subscribe to alerts — rounds close fast",
+        "amount_display": "Varies — up to $400,000 in recent rounds",
+        "action": "Register on launchvic.org immediately. Subscribe to grant alerts. Apply at first opportunity when AI-specific founder round opens.",
+        "fit_score": "Good",
+        "fit_notes": "FifthArk is a Melbourne-based AI company — exactly LaunchVic's target. Location, stage, and sector all align. Timing-dependent.",
+        "relevant_activities": [
+          "AI-specific founder rounds open periodically",
+          "Victorian-based founders in DeepTech and AI are priority"
+        ],
+        "warnings": []
+      },
+      {
+        "id": "city-of-melbourne",
+        "name": "City of Melbourne Business Growth and Impact Grants",
+        "tier": 2,
+        "priority": "Monitor — Next Round Late 2026",
+        "level": "Council",
+        "administered_by": "City of Melbourne",
+        "portal": "https://www.melbourne.vic.gov.au/small-business-grants",
+        "status": "Monitor",
+        "deadline": "Next round likely October–December 2026",
+        "amount_display": "$15,000 – $20,000 (Expansion stream)",
+        "action": "Verify FifthArk's registered address is within City of Melbourne municipality. Monitor for next round opening.",
+        "fit_score": "Possible",
+        "fit_notes": "Address eligibility check required. DealDesk AI as a new product launch is a strong framing. Apply in first week of opening — competitive.",
+        "relevant_activities": [
+          "DealDesk AI qualifies as new product launch under Expansion stream",
+          "Must operate within City of Melbourne municipality boundaries"
+        ],
+        "warnings": [
+          "Address eligibility must be confirmed before applying"
+        ]
+      },
+      {
+        "id": "vic-digital-adaptation",
+        "name": "Victorian Small Business Digital Adaptation Program",
+        "tier": 2,
+        "priority": "Monitor — Check for New Rounds",
+        "level": "State",
+        "administered_by": "Business Victoria",
+        "portal": "https://business.vic.gov.au/grants-and-programs",
+        "status": "Monitor",
+        "deadline": "Check portal — previous round closed 2021, new rounds may have launched",
+        "amount_display": "Up to $15,000 (1:1 co-contribution may apply)",
+        "action": "Search business.vic.gov.au for 'Technology Adoption and Innovation Program' and 'Digital Adaptation Program' for current open rounds.",
+        "fit_score": "Possible",
+        "fit_notes": "Availability uncertain. Most useful if a new round specifically targets AI adoption. Set quarterly calendar reminder to check.",
+        "relevant_activities": [
+          "FifthArk clients adopting DealDesk AI could access this",
+          "Relevant if FifthArk is investing in its own digital infrastructure"
+        ],
+        "warnings": []
+      },
+      {
+        "id": "emdg",
+        "name": "Export Market Development Grant (EMDG)",
+        "tier": 3,
+        "priority": "Future — 12 to 24 Months",
+        "level": "Federal",
+        "administered_by": "Austrade",
+        "portal": "https://www.austrade.gov.au/Australian/Export/Export-Grants",
+        "status": "Future",
+        "deadline": "Annual application cycle — not relevant until first international client",
+        "amount_display": "Up to 50% of export expenses, up to $770,000 lifetime",
+        "action": "Not relevant yet. Start tracking export-eligible expenses once first international client is signed. Target: NZ, UK, Canada.",
+        "fit_score": "Future",
+        "fit_notes": "High value over time. Natural expansion markets: NZ (similar regulatory environment), UK, Canada — all have mortgage brokers and migration agents.",
+        "relevant_activities": [
+          "International marketing and conferences",
+          "Overseas client acquisition costs",
+          "Export market feasibility studies"
+        ],
+        "warnings": []
+      },
+      {
+        "id": "crcp",
+        "name": "Cooperative Research Centres Projects (CRC-P) — AI Round",
+        "tier": 3,
+        "priority": "Future — 12 to 18 Months",
+        "level": "Federal",
+        "administered_by": "Dept of Industry, Science and Resources",
+        "portal": "https://www.industry.gov.au/science-technology-and-innovation/industry-innovation/cooperative-research-centres",
+        "status": "Future",
+        "deadline": "Bi-annual rounds — Round 19 closed May 2026, watch for Round 20",
+        "amount_display": "Collaborative research funding up to 3 years",
+        "action": "Develop university research partnerships. Target: Monash Business School or RMIT for professional services AI research. Apply in Round 20.",
+        "fit_score": "Watch",
+        "fit_notes": "High potential if university partnership established. Good fit with National AI Plan priority. Requires significant relationship investment first.",
+        "relevant_activities": [
+          "AI for professional services research with Monash or RMIT",
+          "National AI Plan priority area alignment"
+        ],
+        "warnings": [
+          "Must partner with an Australian university or CSIRO — relationship takes time to build"
+        ]
+      }
+    ],
+    "strategy": [
+      { "rank": 1, "grant_id": "rdti", "action": "Engage R&D Tax Incentive specialist accountant", "timeline": "This week", "why": "Highest return, always open, requires contemporaneous records — start logging now" },
+      { "rank": 2, "grant_id": "igp-stage1", "action": "Check Industry Growth Program Stage 1 eligibility and apply", "timeline": "Next 30 days", "why": "Up to $25K funded advisory — use to fund grant writer or commercialisation specialist" },
+      { "rank": 3, "grant_id": "launchvic", "action": "Register on LaunchVic and subscribe to grant alerts", "timeline": "This week", "why": "AI-specific rounds open periodically — must be registered to know when they open" },
+      { "rank": 4, "grant_id": "city-of-melbourne", "action": "Verify City of Melbourne municipality eligibility", "timeline": "Next 30 days", "why": "$15-20K available if address qualifies. Monitor for next round late 2026." },
+      { "rank": 5, "grant_id": "vic-digital-adaptation", "action": "Monitor Business Victoria for new digital adoption rounds", "timeline": "Ongoing", "why": "Periodic rounds — set a calendar reminder to check quarterly" },
+      { "rank": 6, "grant_id": "emdg", "action": "Track export activity for EMDG eligibility", "timeline": "12-24 months", "why": "Up to $770K lifetime — becomes relevant at first international client" }
+    ],
+    "resources": [
+      { "name": "Federal grant finder", "url": "https://business.gov.au/grants-and-programs" },
+      { "name": "Victorian grants portal", "url": "https://business.vic.gov.au/grants-and-programs" },
+      { "name": "LaunchVic", "url": "https://launchvic.org" },
+      { "name": "R&D Tax Incentive", "url": "https://business.gov.au/grants-and-programs/research-and-development-tax-incentive" },
+      { "name": "City of Melbourne grants", "url": "https://www.melbourne.vic.gov.au/small-business-grants" },
+      { "name": "GrantConnect (federal register)", "url": "https://www.grants.gov.au" },
+      { "name": "Austrade EMDG", "url": "https://www.austrade.gov.au/Australian/Export/Export-Grants" }
+    ]
+  }
 }

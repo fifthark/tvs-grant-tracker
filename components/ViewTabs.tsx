@@ -1,6 +1,6 @@
 "use client";
 
-export type ViewType = "open" | "closed" | "upcoming";
+export type ViewType = "open" | "closed" | "upcoming" | "fifthark";
 
 type Props = {
   active: ViewType;
@@ -11,6 +11,7 @@ const tabs: { id: ViewType; label: string }[] = [
   { id: "open", label: "Currently Open" },
   { id: "closed", label: "Recently Closed" },
   { id: "upcoming", label: "Coming Soon" },
+  { id: "fifthark", label: "FifthArk / Innovation" },
 ];
 
 export default function ViewTabs({ active, onChange }: Props) {
