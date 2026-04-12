@@ -70,25 +70,25 @@ export type FifthArkGrant = {
   name: string;
   tier: 1 | 2 | 3;
   priority: string;
-  level: "Federal" | "State" | "Council";
-  administered_by: string;
-  portal: string;
+  level: string;
+  applicant: "FifthArk" | "SuperNova";
+  administered_by?: string;
+  portal?: string;
   status: string;
-  deadline: string;
+  deadline?: string;
   amount_display: string;
   action: string;
   fit_score: "Excellent" | "Good" | "Possible" | "Future" | "Watch";
-  fit_notes: string;
   relevant_activities: string[];
   warnings: string[];
 };
 
-export type FifthArkStrategy = {
+export type FifthArkPriorityItem = {
   rank: number;
-  grant_id: string;
+  entity: "FifthArk" | "SuperNova";
   action: string;
   timeline: string;
-  why: string;
+  potential: string;
 };
 
 export type FifthArkResource = {
@@ -98,15 +98,22 @@ export type FifthArkResource = {
 
 export type FifthArkGrantSection = {
   meta: {
-    entity: string;
-    abn: string;
-    trading_as: string;
-    profile: string;
+    entities: {
+      fifthark: { legal_name: string; abn: string; trading_as: string; type: string; profile: string; grant_eligibility: string };
+      supernova: { legal_name: string; type: string; profile: string; grant_eligibility: string };
+    };
+    vendor_model: string;
     last_updated: string;
     disclaimer: string;
   };
-  grants: FifthArkGrant[];
-  strategy: FifthArkStrategy[];
+  dealdesk_ai_grants: FifthArkGrant[];
+  badminton_app_grants: {
+    framing_principle: string;
+    winning_language: string;
+    pathway_a_fifthark: FifthArkGrant[];
+    pathway_b_supernova: FifthArkGrant[];
+  };
+  priority_order: FifthArkPriorityItem[];
   resources: FifthArkResource[];
 };
 
