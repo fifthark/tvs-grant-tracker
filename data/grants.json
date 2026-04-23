@@ -1,50 +1,50 @@
 {
-  "lastScanned": "2026-04-07",
+  "lastScanned": "2026-04-23",
   "grants": [
     {
       "id": 1,
-      "name": "Federal Volunteer Grants 2025–26",
-      "funder": "Australian Government (Dept of Social Services)",
-      "amount": "$1,000–$5,000",
-      "deadline": "2026-04-17",
-      "status": "urgent",
-      "fit": "high",
-      "bestFor": "Both",
-      "categories": ["Equipment for volunteers", "Insurance", "Training", "Volunteer support items"],
-      "notes": "⚠️ 10 DAYS LEFT. EOIs through local Federal MP. $66,665 per electorate. Must have 40%+ volunteer workforce. Both orgs are volunteer-driven — strong fit.",
-      "url": "https://www.communitygrants.gov.au/news/2025-26-volunteer-grants-round",
-      "portal": "Via Federal MP electorate office",
-      "tags": ["volunteers", "community", "equipment"]
-    },
-    {
-      "id": 2,
       "name": "Local Sporting Champions (Round 4)",
       "funder": "Australian Sports Commission",
       "amount": "$500–$750",
       "deadline": "2026-04-30",
-      "status": "open",
+      "status": "urgent",
       "fit": "medium",
       "bestFor": "SuperNova",
       "categories": ["Travel to state/national/international championships"],
-      "notes": "For individual coaches, officials and competitors aged 12–18 attending championships. Could support SuperNova U18 players.",
+      "notes": "⚠️ 7 DAYS LEFT. For individual coaches, officials and competitors aged 12–18. Could support SuperNova U18 players attending championships.",
       "url": "https://www.ausport.gov.au/grants_and_funding/local_sporting_champions",
       "portal": "sportaus.smartygrants.com.au",
       "tags": ["sport", "youth", "individual"]
     },
     {
-      "id": 3,
+      "id": 2,
       "name": "Whittlesea Community Grants 2025-26",
       "funder": "City of Whittlesea",
       "amount": "Small/Medium/Large",
       "deadline": "2026-04-30",
-      "status": "open",
+      "status": "urgent",
       "fit": "medium",
       "bestFor": "Both",
-      "categories": ["Small Grants", "Medium Grants", "Large Grants", "Individual Grants", "Unincorporated Group Grants"],
-      "notes": "NEW — North. All year round grants open until 30 April 2026. Strong multicultural community (South Morang, Mernda, Epping, Mill Park). Also has Female Inclusion in Sport Grants (co-funded with DPV Health). Contact community.grants@whittlesea.vic.gov.au or 9217 2170.",
+      "categories": ["Small Grants", "Medium Grants", "Large Grants", "Individual Grants"],
+      "notes": "⚠️ 7 DAYS LEFT. North. Strong multicultural community (South Morang, Mernda, Epping). Also has Female Inclusion in Sport Grants. Contact community.grants@whittlesea.vic.gov.au or 9217 2170.",
       "url": "https://www.whittlesea.vic.gov.au/community-support/grants-awards-and-competitions/community-grants/",
       "portal": "whittlesea.smartygrants.com.au",
       "tags": ["community", "sport", "multicultural", "women", "events"]
+    },
+    {
+      "id": 3,
+      "name": "Sport Australia Women Leaders in Sport — Equity Governance Grant 2026",
+      "funder": "Australian Sports Commission",
+      "amount": "TBC",
+      "deadline": "2026-05-15",
+      "status": "open",
+      "fit": "medium",
+      "bestFor": "SuperNova",
+      "categories": ["Women's sport governance", "Board diversity", "Leadership development"],
+      "notes": "🆕 NEW. For organisations working to increase women's leadership in sport governance. Could position SuperNova's women's program and board development. Closes 15 May 2026.",
+      "url": "https://sportaus.smartygrants.com.au/",
+      "portal": "sportaus.smartygrants.com.au",
+      "tags": ["women", "sport", "governance"]
     },
     {
       "id": 4,
@@ -56,7 +56,7 @@
       "fit": "high",
       "bestFor": "Both",
       "categories": ["Connection Grant", "Innovation Grant", "Collaboration Grant", "Micro Funds (up to $1,000)"],
-      "notes": "Eastern suburbs. Mitcham Badminton is in Whitehorse — clean venue fit for SuperNova Learn & Play. Also Partnership Grants up to $40K/yr for 4 years. Contact grants@whitehorse.vic.gov.au.",
+      "notes": "East. Mitcham Badminton is in Whitehorse — clean venue fit for SuperNova Learn & Play. Also Partnership Grants up to $40K/yr for 4 years. Contact grants@whitehorse.vic.gov.au.",
       "url": "https://whitehorse.vic.gov.au/about-council/grants-community",
       "portal": "whitehorse.smartygrants.com.au",
       "tags": ["community", "sport", "multicultural", "women", "events"]
@@ -71,7 +71,7 @@
       "fit": "low",
       "bestFor": "TVS",
       "categories": ["Arts & culture", "Sport & recreation", "Community wellbeing", "Equity & inclusion"],
-      "notes": "NEW — North. Closes 4 May 2026. Covers Preston, Reservoir, Northcote. Priority groups include CALD, women, young people. Must deliver within Darebin. Contact Darebingrants@darebin.vic.gov.au.",
+      "notes": "North. Covers Preston, Reservoir, Northcote. Priority: CALD, women, young people. Must deliver within Darebin. Contact Darebingrants@darebin.vic.gov.au.",
       "url": "https://www.darebin.vic.gov.au/About-council/Darebin-grants/Community-grants-program",
       "portal": "darebin.smartygrants.com.au",
       "tags": ["community", "multicultural", "sport", "arts"]
@@ -93,6 +93,21 @@
     },
     {
       "id": 7,
+      "name": "Federal Multicultural Infrastructure Grant",
+      "funder": "Australian Government (Dept of Home Affairs)",
+      "amount": "$20,000–$1,500,000",
+      "deadline": "2026-05-18",
+      "status": "open",
+      "fit": "medium",
+      "bestFor": "TVS",
+      "categories": ["Amenity ($20K–$100K)", "Small/Medium Infrastructure ($100K–$500K)", "Large Infrastructure ($500K–$1.5M)"],
+      "notes": "Part of $41.6M Modernised Multicultural Grants Program. For construction, upgrade or extension of multicultural community infrastructure. Must be 'shovel ready' within 12 weeks. Requires co-contribution, dev approvals, quotes. Priority: new/emerging communities, women, disability. Round 2 opens 19 May (closes 12 Nov 2026).",
+      "url": "https://www.grants.gov.au/Go/Show?GoUuid=38113ae0-7343-4103-9c1a-44af8b5d125c",
+      "portal": "communitygrants.gov.au",
+      "tags": ["multicultural", "infrastructure", "community", "federal"]
+    },
+    {
+      "id": 8,
       "name": "City of Melbourne — Town Halls Scheme (CUTHS)",
       "funder": "City of Melbourne",
       "amount": "In-kind venue hire",
@@ -107,7 +122,7 @@
       "tags": ["events", "venue"]
     },
     {
-      "id": 8,
+      "id": 9,
       "name": "Wyndham Medium Grants – Round 2",
       "funder": "Wyndham City Council",
       "amount": "Up to $15,000",
@@ -122,7 +137,7 @@
       "tags": ["community", "events", "multicultural", "women", "sport"]
     },
     {
-      "id": 9,
+      "id": 10,
       "name": "Wyndham Small Grants",
       "funder": "Wyndham City Council",
       "amount": "Up to $2,000",
@@ -137,7 +152,7 @@
       "tags": ["community", "equipment"]
     },
     {
-      "id": 10,
+      "id": 11,
       "name": "Hume Sports Aid Grants — Pathway (Batch 2)",
       "funder": "Hume City Council",
       "amount": "Individual athlete support",
@@ -146,13 +161,13 @@
       "fit": "low",
       "bestFor": "SuperNova",
       "categories": ["Individual athletes attending state/national/international events"],
-      "notes": "NEW — North. For Hume residents aged 24 and under. Financial support for representative competition. Could support SuperNova U18 players who live in Hume. Closes 30 June 2026.",
+      "notes": "North. For Hume residents aged 24 and under. Could support SuperNova U18 players who live in Hume.",
       "url": "https://www.hume.vic.gov.au/Your-Council/Grants-awards-and-funds/Sports-Aid-Grant-Program",
       "portal": "hume.smartygrants.com.au",
       "tags": ["sport", "youth", "individual"]
     },
     {
-      "id": 11,
+      "id": 12,
       "name": "Merri-bek Community Participation Grants (Groups)",
       "funder": "Merri-bek City Council",
       "amount": "Up to $3,000",
@@ -161,161 +176,54 @@
       "fit": "low",
       "bestFor": "Both",
       "categories": ["Participation projects", "Community activities", "Inclusion initiatives"],
-      "notes": "NEW — North. Rolling quick-response funding for participation projects. Covers Brunswick, Coburg, Fawkner. Must benefit Merri-bek residents. Contact communitygrants@merri-bek.vic.gov.au.",
+      "notes": "North. Rolling quick-response funding. Brunswick, Coburg, Fawkner. Must benefit Merri-bek residents. Contact communitygrants@merri-bek.vic.gov.au.",
       "url": "https://www.merri-bek.vic.gov.au/my-council/grants-and-awards/community-grants-program/current-community-grants/",
       "portal": "merri-bek.smartygrants.com.au",
       "tags": ["community", "multicultural", "sport"]
     }
   ],
   "closedGrants": [
-    {
-      "name": "Victorian Sporting Club Grants (Round 2)",
-      "reason": "Closed 7 April 2026. All categories reopen in 2026-27 Round 1 (~Oct 2026)."
-    },
-    {
-      "name": "Maroondah Annual Community Grants 2026/27",
-      "reason": "Closed 2 April 2026. Up to $10K. Outcomes mid-July 2026. Enquiry sent to Josh Burt re: outside-council venue."
-    },
-    {
-      "name": "Maroondah Arts & Cultural Grants 2026/27",
-      "reason": "Closed 2 April 2026. Next round ~Feb 2027."
-    },
-    {
-      "name": "Darebin Older and Active Community Grant 2026-27",
-      "reason": "Closed 29 March 2026."
-    },
-    {
-      "name": "Hume Annual Community Grants 2026 (Round 2)",
-      "reason": "Round 2 applications closed. 92 recipients shared $352K. Watch for 2027 round."
-    },
-    {
-      "name": "Merri-bek Annual Grants 2026-27",
-      "reason": "Closed 28 February 2026. Community Strengthening (up to $7K), Facility Improvement, Organisational Establishment (up to $10K/yr for 3 yrs). Next round ~Jan 2027."
-    },
-    {
-      "name": "Hobsons Bay Make it Happen Grants",
-      "reason": "Closed 30 March 2026. Up to $25K. Next round ~Feb 2027."
-    },
-    {
-      "name": "Melton Community Grants 2025/26",
-      "reason": "Closed 31 March 2026. Up to $5K. Watch for 2026/27."
-    },
-    {
-      "name": "ASF Active Kids Grant 2026",
-      "reason": "Closed 27 March 2026. Watch for ~March 2027."
-    },
-    {
-      "name": "Wyndham Community Pathways Scholarships",
-      "reason": "Closed 6 March 2026. Watch for 2026-27 ~Aug 2026."
-    },
-    {
-      "name": "Knox Leisure Minor Capital Works Grant",
-      "reason": "Closed 15 March 2026. Opens 1 Feb each year."
-    },
-    {
-      "name": "Knox Community Development Fund 2025-26",
-      "reason": "Closed late 2025. Watch for 2026-27 mid-2026."
-    },
-    {
-      "name": "Monash Community Grants 2025/26",
-      "reason": "Closed. Watch for 2026/27 ~Jan 2027."
-    },
-    {
-      "name": "City of Melbourne Community Inclusion Grants 2026-27",
-      "reason": "Closed 9 February 2026."
-    },
-    {
-      "name": "City of Melbourne Community Events Grants 2026-27",
-      "reason": "Closed 26 January 2026."
-    },
-    {
-      "name": "Change Our Game Community Activation Grants 2024-25",
-      "reason": "Closed. Up to $10K for women in sport. Watch for 2025-26 round."
-    },
-    {
-      "name": "VicHealth Growing Healthy Communities (Round 2)",
-      "reason": "Closed. Funded projects Mar 2026–Mar 2028."
-    },
-    {
-      "name": "Multicultural Festivals & Events Program 2024-25",
-      "reason": "Closed. Up to $50K. Watch for 2025-26."
-    },
-    {
-      "name": "Wyndham Arts Grants 2026",
-      "reason": "Closed 14 January 2026."
-    },
-    {
-      "name": "Sport & Rec Vic Significant Sporting Events",
-      "reason": "Closed 15 February 2026."
-    }
+    { "name": "Federal Volunteer Grants 2025–26", "reason": "Closed 17 April 2026. $1K–$5K for volunteer equipment/training." },
+    { "name": "Victorian Sporting Club Grants (Round 2)", "reason": "Closed 7 April 2026. All categories reopen in 2026-27 Round 1 (~Oct 2026)." },
+    { "name": "Maroondah Annual Community Grants 2026/27", "reason": "Closed 2 April 2026. Up to $10K. Outcomes mid-July 2026." },
+    { "name": "Maroondah Arts & Cultural Grants 2026/27", "reason": "Closed 2 April 2026." },
+    { "name": "Darebin Older and Active Community Grant 2026-27", "reason": "Closed 29 March 2026." },
+    { "name": "Hume Annual Community Grants 2026 (Round 2)", "reason": "Round 2 closed. 92 recipients shared $352K." },
+    { "name": "Merri-bek Annual Grants 2026-27", "reason": "Closed 28 February 2026." },
+    { "name": "Hobsons Bay Make it Happen Grants", "reason": "Closed 30 March 2026." },
+    { "name": "Melton Community Grants 2025/26", "reason": "Closed 31 March 2026." },
+    { "name": "ASF Active Kids Grant 2026", "reason": "Closed 27 March 2026." },
+    { "name": "Knox Leisure Minor Capital Works Grant", "reason": "Closed 15 March 2026. Opens 1 Feb each year." },
+    { "name": "Knox Community Development Fund 2025-26", "reason": "Closed late 2025. Watch for 2026-27 mid-2026." },
+    { "name": "Wyndham Community Pathways Scholarships", "reason": "Closed 6 March 2026." },
+    { "name": "Monash Community Grants 2025/26", "reason": "Closed. Watch for 2026/27 ~Jan 2027." },
+    { "name": "City of Melbourne Community Inclusion Grants 2026-27", "reason": "Closed 9 February 2026." },
+    { "name": "City of Melbourne Community Events Grants 2026-27", "reason": "Closed 26 January 2026." },
+    { "name": "Change Our Game Community Activation Grants 2024-25", "reason": "Closed. Up to $10K for women in sport." },
+    { "name": "VicHealth Growing Healthy Communities (Round 2)", "reason": "Closed. Projects Mar 2026–Mar 2028." },
+    { "name": "Multicultural Festivals & Events Program 2024-25", "reason": "Closed. Up to $50K." },
+    { "name": "Wyndham Arts Grants 2026", "reason": "Closed 14 January 2026." },
+    { "name": "Sport & Rec Vic Significant Sporting Events", "reason": "Closed 15 February 2026." },
+    { "name": "LaunchVic Pre-Accelerator Grants (AI/DeepTech)", "reason": "Closed January 2026. Up to $400K for startup programs. Monitor launchvic.org for future rounds." },
+    { "name": "Business Victoria Technology Adoption & Innovation Program", "reason": "Closed. Up to $50K for SMEs adopting tech. Monitor business.vic.gov.au for future rounds." },
+    { "name": "City of Melbourne Business Growth & Impact Grants", "reason": "Closed. For innovative small businesses/startups in City of Melbourne." }
   ],
   "upcomingGrants": [
-    {
-      "name": "City of Melbourne Annual Arts Grants 2027",
-      "expected": "Opens 24 April 2026, closes 31 May 2026",
-      "amount": "Up to $20,000",
-      "note": "Arts projects in City of Melbourne."
-    },
-    {
-      "name": "Knox Community Development Fund 2026-27",
-      "expected": "Opens mid-2026",
-      "amount": "Up to $10,000+",
-      "note": "Eastern suburbs — ACM Bayswater is in Knox. Sport/leisure, multicultural, community strengthening. Strong fit for SuperNova eastern expansion."
-    },
-    {
-      "name": "Hume Community Grants 2027",
-      "expected": "Opens ~Aug 2026",
-      "amount": "Up to $10,000 (3-year funding available)",
-      "note": "North. Broadmeadows, Craigieburn, Sunbury. Strong multicultural community. Operational grants ($1.5K), Community Strengthening ($7K), 3-year grants ($10K/yr). Previously funded multicultural events and women's sport."
-    },
-    {
-      "name": "Whittlesea Female Inclusion in Sport Grants",
-      "expected": "TBC — monitor whittlesea.vic.gov.au",
-      "amount": "TBC",
-      "note": "North. Co-funded with DPV Health. Specifically for women's sport participation. Excellent fit for SuperNova Learn & Play — Women Only."
-    },
-    {
-      "name": "Merri-bek Annual Grants 2027-28",
-      "expected": "Opens ~Jan 2027",
-      "amount": "Up to $7,000 (Community Strengthening) / $10,000/yr (Establishment)",
-      "note": "North. Brunswick, Coburg, Fawkner. Priority: migrants, refugees, women, CALD communities."
-    },
-    {
-      "name": "Change Our Game Community Activation Grants 2025-26",
-      "expected": "TBC — monitor changeourgame.vic.gov.au",
-      "amount": "Up to $10,000",
-      "note": "Perfect for SuperNova Women's Learn & Play. 3 streams: Participation, Education, Community Leaders."
-    },
-    {
-      "name": "Multicultural Festivals & Events Program 2025-26",
-      "expected": "TBC — likely mid-2026",
-      "amount": "Up to $50,000",
-      "note": "Strong fit for TVS multicultural events (Holi, Diwali)."
-    },
-    {
-      "name": "VicHealth Active Club Grants (next round)",
-      "expected": "TBC — monitor vichealth.vic.gov.au/funding",
-      "amount": "Up to $10,000",
-      "note": "Women/girls participation, social/modified sport."
-    },
-    {
-      "name": "Wyndham Active Revitalisation Program",
-      "expected": "Open — deadline TBC",
-      "amount": "Up to $50,000 (small) / $200,000 (medium)",
-      "note": "$3.75M program. Requires lease/licence at Council facility."
-    },
-    {
-      "name": "Wyndham Large Grants 2026-27",
-      "expected": "TBC — likely mid-2026",
-      "amount": "Up to $40,000",
-      "note": "Incorporated NFPs in Wyndham."
-    },
-    {
-      "name": "Sporting Club Grants Program 2026-27 (Round 1)",
-      "expected": "Opens ~October 2026",
-      "amount": "Up to $5,000",
-      "note": "All 5 categories available again for SuperNova."
-    }
+    { "name": "City of Melbourne Annual Arts Grants 2027", "expected": "Opens 24 April 2026, closes 31 May 2026", "amount": "Up to $20,000", "note": "Arts projects in City of Melbourne. Opens TOMORROW." },
+    { "name": "Federal Multicultural Infrastructure Grant — Round 2", "expected": "Opens 19 May 2026, closes 12 November 2026", "amount": "$20,000–$1,500,000", "note": "Second round opens after Round 1 closes. Same program, same criteria." },
+    { "name": "Knox Community Development Fund 2026-27", "expected": "Opens mid-2026", "amount": "Up to $10,000+", "note": "East — ACM Bayswater is in Knox. Sport/leisure, multicultural. Strong fit for SuperNova Learn & Play eastern expansion." },
+    { "name": "Hume Community Grants 2027", "expected": "Opens ~Aug 2026", "amount": "Up to $10,000 (3-year funding available)", "note": "North. Broadmeadows, Craigieburn. Previously funded multicultural events and women's sport." },
+    { "name": "Whittlesea Female Inclusion in Sport Grants", "expected": "TBC — monitor whittlesea.vic.gov.au", "amount": "TBC", "note": "North. Co-funded with DPV Health. Specifically for women's sport. Excellent fit for Learn & Play — Women Only." },
+    { "name": "Merri-bek Annual Grants 2027-28", "expected": "Opens ~Jan 2027", "amount": "Up to $7,000 (Strengthening) / $10,000/yr (Establishment)", "note": "North. Brunswick, Coburg, Fawkner. Priority: migrants, refugees, women, CALD." },
+    { "name": "Change Our Game Community Activation Grants 2025-26", "expected": "TBC — monitor changeourgame.vic.gov.au", "amount": "Up to $10,000", "note": "Perfect for SuperNova Women's Learn & Play." },
+    { "name": "Multicultural Festivals & Events Program 2025-26", "expected": "TBC — likely mid-2026", "amount": "Up to $50,000", "note": "Strong fit for TVS multicultural events (Holi, Diwali)." },
+    { "name": "VicHealth Active Club Grants (next round)", "expected": "TBC — monitor vichealth.vic.gov.au/funding", "amount": "Up to $10,000", "note": "Women/girls participation, social/modified sport." },
+    { "name": "Wyndham Active Revitalisation Program", "expected": "Open — deadline TBC", "amount": "Up to $50,000 (small) / $200,000 (medium)", "note": "$3.75M program. Requires lease/licence at Council facility." },
+    { "name": "Wyndham Large Grants 2026-27", "expected": "TBC — likely mid-2026", "amount": "Up to $40,000", "note": "Incorporated NFPs in Wyndham." },
+    { "name": "Sporting Club Grants Program 2026-27 (Round 1)", "expected": "Opens ~October 2026", "amount": "Up to $5,000", "note": "All 5 categories available again for SuperNova." },
+    { "name": "LaunchVic Startup Grants (next round)", "expected": "TBC — monitor launchvic.org", "amount": "Up to $400,000", "note": "FifthArk/SuperNova App — for startup programs supporting founders in Victoria. Previous rounds focused on AI/DeepTech." },
+    { "name": "Business Victoria Tech Adoption & Innovation (next round)", "expected": "TBC — monitor business.vic.gov.au", "amount": "Up to $50,000", "note": "FifthArk/SuperNova App — for SMEs adopting tech or developing digital products. 1:1 co-contribution required. Strong fit if FifthArk is scaling the SuperNova platform." },
+    { "name": "City of Melbourne Business Growth & Impact Grants (next round)", "expected": "TBC — likely late 2026", "amount": "Various", "note": "FifthArk — for innovative small businesses, startups, social enterprises in City of Melbourne." }
   ],
   "fiftharkGrants": {
     "meta": {
